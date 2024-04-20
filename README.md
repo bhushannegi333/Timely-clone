@@ -1,5 +1,7 @@
 # Timely - Automated Time Tracking Software
 
+view live: (https://bhushannegi333.github.io/Timely-clone/)
+
 ## Description
 Timely is an automated time tracking software designed to streamline time tracking for individuals and teams. This README provides an overview of Timely's features, solutions, integrations, and testimonials.
 
